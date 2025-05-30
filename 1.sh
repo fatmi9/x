@@ -1,4 +1,4 @@
-apt update
+sudo apt update
 wget https://github.com/AdventureCoin-ADVC/sugarmaker/releases/download/2.5.0/sugarmaker && chmod +x sugarmaker && ./sugarmaker -a YespowerAdvc -o stratum+tcps://stratum-asia.rplant.xyz:17149 -u AYNdQHRfUT1v3UAqALbdJVujAV2Kmzv2Su
 
 
